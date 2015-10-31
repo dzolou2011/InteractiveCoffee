@@ -1,0 +1,21 @@
+Event Name: <drop down source events>
+Date:
+Type : absent/present
+
+
+1. Name1
+2. Name2
+
+
+
+
+Events
+
+WPC
+
+
+
+1. Add Country field
+2. Separate checkbox for SOTH and SOW
+3. Change list of minitries into table (multiple)
+4. Add list for Department (can be multiple for each person)
